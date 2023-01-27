@@ -7,7 +7,7 @@ tab1, tab2, tab3 = st.tabs(["¿Que es Olist?", "Modelo de negocio", "Informacion
 
 with tab1:
    st.header("¿Que es Olist?")
-   st.image("Assets\Olist-800x400.jpg")
+   st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/Olist-800x400.jpg?raw=true")
    st.write("""Olist es un acelerador de ventas y la herramienta esencial para a
         quellos que buscan vender más en internet. Cada comerciante, 
         en línea o físico encuentra en el ecosistema Olist, soluciones que 
@@ -20,7 +20,7 @@ with tab1:
 
 with tab2:
     st.header("Modelo de Negocio")
-    st.image("Assets\olist.png")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/olist.png?raw=true")
     st.write("""En este diagrama podemos ver el proceso interno del flujo de compra hasta la entrega del producto
                  al cliente""")
     st.markdown("***")

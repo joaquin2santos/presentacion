@@ -12,31 +12,31 @@ tab1, tab2, tab3, tab4 = st.tabs(["Nuestro Team", "Diagrama de Gantt", "Workflow
 
 with tab1:
     st.subheader("Nuestro team")
-    st.image("Assets\dev team olist.png")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/dev%20team%20olist.png?raw=true")
 
 with tab2:
     st.subheader("Utilizamos el siguiente diagrama de Gant:")
-    st.image("Assets\diagrama_gantt03.png")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/diagrama_gantt03.png?raw=true")
 
 with tab3: 
     st.subheader("El Workflow de trabajo se estructuro de la siguiente manera")
     st.markdown("Etapa Local")
-    st.image("Assets\workflowlocal.png")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/workflowlocal.png?raw=true")
     st.write("""En esta etapa buscamos manejar los archivos de forma local, realizando un analisis EDA y pasos 
             preliminares para entender que necesitamos para el proyecto""")
     st.markdown("***")
     st.markdown("Escalabilidad")
-    st.image("Assets\workflowairflow.png")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/workflowairflow.png?raw=true")
     st.write("""En este segundo momento intentamos escalar el flujo de datos hasta hacerlo automatizado, mediante
             tecnologias como Airflow que nos ahorran tiempo en los procesos.""")
     st.markdown("***")
     st.subheader("Utilizamos el gestor de proyecto trello")
-    st.image("Assets/trello.png")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/trello.png?raw=true")
     st.write("""Para coordinar las tareas del dia a dia utilizamos esta herramienta, asi cada integrante del equipo 
             puede reportar en que se encuentra trabajando y a su vez saber como esta el avance sus compañeros.""")
 with tab4: 
     st.subheader("Metodologia Agile-Scrum")
-    st.image("Assets\metodologia.png")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/metodologia.png?raw=true")
     st.write("""Metodología de trabajo.
         La metodología de gestión de proyecto utilizada se cree muy importante para llegar a los
         objetivos propuestos. Se utilizará metodología considerada ágil al ser colaborativa, rápida
