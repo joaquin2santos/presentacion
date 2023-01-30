@@ -13,8 +13,8 @@ with tab1:
            que demora todo proceso desde que el cliente compra el producto, hasta que le es entregado. A su lado se
            encuentra el promedio nacional de tiempos de entrega estimados, ambas medidas estan en dias""")
 
-    st.write("""En el segundo grafico en la parte superior muestra el promedio nacional que se tarda la 
-        aprobacion de las ordenes en cada compra""")
+    st.write("""El grafico titulado 'Diferencia Porcentual' en la parte superior muestra el porcentaje de diferencia entre el
+     que estimado y el tiempo real que tenemos para las entregas.""")
 
     st.write("""En el tercer grafico  de la parte superior muestra el promedio nacional en el que el vendedor despacha 
         el producto vendido. Cabe destacar que esta parte del proceso no depende de Olist pero decidimos incluirla
