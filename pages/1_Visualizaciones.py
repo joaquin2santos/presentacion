@@ -10,7 +10,8 @@ with tab1:
     st.subheader(""" Reducir los tiempos de entrega 5% semestral.""")
     st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/imagen2.png?raw=true")
     st.write("""En el primer grafico de arriba a la izquierda(Velocimetro) podemos observar el promedio nacional
-           que demora todo proceso desde que el cliente compra el producto, hasta que le es entregado.""")
+           que demora todo proceso desde que el cliente compra el producto, hasta que le es entregado. A su lado se
+           encuentra el promedio nacional de tiempos de entrega estimados, ambas medidas estan en dias""")
 
     st.write("""En el segundo grafico en la parte superior muestra el promedio nacional que se tarda la 
         aprobacion de las ordenes en cada compra""")
