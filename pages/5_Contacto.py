@@ -33,7 +33,7 @@ with col4:
     if st.checkbox("Contacta a Lucas"):
             st.markdown("lucaswayar@outlook.com")
             st.subheader("Linkedin de Lucas")
-            st.markdown("")
+            st.markdown("https://www.linkedin.com/in/lucaswayar/")
 
 
 with col5:

@@ -21,14 +21,13 @@ with tab2:
 with tab3: 
     st.subheader("El Workflow de trabajo se estructuro de la siguiente manera")
     st.markdown("Etapa Local")
-    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/WorkFlow_Local.jpg?raw=true")
-    st.write("""En esta etapa buscamos manejar los archivos de forma local, realizando un analisis EDA y pasos 
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Workflow_actual.png?raw=true")
+    st.write("""En esta primer etapa buscamos manejar los archivos de forma local, realizando un analisis EDA y pasos 
             preliminares para entender que necesitamos para el proyecto""")
-    st.markdown("***")
     st.markdown("Escalabilidad")
-    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/WorkFlow_Automatizado.jpg?raw=true")
-    st.write("""En este segundo momento intentamos escalar el flujo de datos hasta hacerlo automatizado, mediante
-            tecnologias como Airflow que nos ahorran tiempo en los procesos.""")
+    st.write("""En este segundo momento intentamos escalar el flujo de datos para hacerlo en la nube mediante
+            tecnologias como Amazon Web Services(AWS) que nos ahorran tiempo en los procesos. De esta manera confeccionariamos
+            el Datawarehouse en la nube""")
     st.markdown("***")
     st.subheader("Utilizamos el gestor de proyecto trello")
     st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/trello.png?raw=true")
