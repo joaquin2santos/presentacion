@@ -37,8 +37,8 @@ with tab2:
     st.write("""En el mapa ubicado en la parte superior izquierda podemos ver el promedio de scores de reseñas discriminado
         por region""")
     st.write("""En el grafico de velocimetro ubicado a su derecha podemos ver el promedio de score de reseñas nacional.""")
-    st.write("""En la tabla que se encuentra a la derecha del grafico velocimetro, encontramos el porcentaje de reseñas
-            que pertenece a cada puntaje de score""")
+    st.write("""En la tabla que se encuentra en la parte superior derecha , encontramos el porcentaje  y la cantidad
+    de reseñas que pertenece a cada score""")
     st.write("""En la parte inferior izquierda podemos encontrar la evolucion de los scores de reseñas a lo largo del tiempo""")
     st.write("""A su derecha podemos ver el total acumulado por cada puntaje del score de reseñas""")
 
@@ -47,7 +47,11 @@ with tab3:
     st.subheader("KPI:")
     st.subheader("Aumentar la cantidad de productos vendidos en un 15% anual")
     st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/imagen3.png?raw=true")
-    st.write("""En el grafico de la parte superior izquierda tenemos el acumulado de ventas separado por categoria de productos""")
-    st.write("""En la tajeta a su derecha tenemos el acumulado total de ventas para el periodo seleccionado""")
-    st.write("""Por ultimo en la parte inferior econtramos la evolucion en el tiempo de la cantidad de ventas de la plataforma de Olist""")
+
+    st.write("""En el grafico de la parte superior izquierda tenemos el acumulado de ventas separado por categoria de
+    productos""")
+    st.write("""En el grafico de barras horizontales observamos la cantidad de ventas totales segmentadas por año""")
+    st.write("""En la tajeta tenemos el acumulado total de ventas para el periodo seleccionado""")
+    st.write("""Por ultimo en la parte inferior encontramos la evolucion en el tiempo de la cantidad de ventas de la}
+    plataforma de Olist""")
     
