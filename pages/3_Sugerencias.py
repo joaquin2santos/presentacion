@@ -22,7 +22,7 @@ st.write("""En relacion a los productos que mas se han vendido, recomendamos com
     lanzar campañas de marketing en fechas u horarios optimos para aumentar sus ventas. Es decir, con los recursos que disponemos, podemos alcanzar
     un mayor indice de ventas de dichos productos, e impulsar otros""")
 
-
+st.markdown("***")
 st.subheader("En el siguiente videos podemos obtener mas informacion sobre el funcionamiento de Olist")
 
 st.video("https://youtu.be/jXJYaVRL5SU")

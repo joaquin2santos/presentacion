@@ -52,6 +52,6 @@ with tab3:
     productos""")
     st.write("""En el grafico de barras horizontales observamos la cantidad de ventas totales segmentadas por año""")
     st.write("""En la tajeta tenemos el acumulado total de ventas para el periodo seleccionado""")
-    st.write("""Por ultimo en la parte inferior encontramos la evolucion en el tiempo de la cantidad de ventas de la}
+    st.write("""Por ultimo en la parte inferior encontramos la evolucion en el tiempo de la cantidad de ventas de la
     plataforma de Olist""")
     
