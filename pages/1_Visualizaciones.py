@@ -21,14 +21,14 @@ with tab1:
 
     st.write("""Las 3 tarjetas debajo del grafico del 'promedio de tiempo real de entrega'  de la parte superior muestra,
     en orden descendente, muestran las 3 fases en que dividimos el proceso de entrega para su analisis. La primera tarjeta, muestra
-    el tiempo promedio en que tarda en aprobarse una orden. La segunda muestra
-    Cabe destacar que esta parte del proceso no depende de Olist pero decidimos incluirla porque influye de sobremanera en el resultado del proceso final.""")
-    st.write("""En el cuarto grafico de la parte superior se encuentra el promedio nacional de entrega al cliente, 
-    una vez que el producto esta en manos de Olist. Es decir, esta parte depende pura y exclusivamente de la empresa""")
+    el tiempo promedio en que tarda en aprobarse una orden. La segunda muestra el tiempo que demora el vendedor en despachar el 
+    producto, luego de aprobada la compra. Cabe destacar que esta parte del proceso no depende de Olist pero decidimos incluirla porque influye
+    de sobremanera en el resultado del proceso final. 
+    La tercer tarjeta muestra el tiempo de demora de Olist en entregar el producto, desde que lo recibe hasta entregarlo 
+    al consumidor. Es decir, esta parte depende pura y exclusivamente de la empresa""")
 
-    st.write("""A la derecha del mapa, podemos observar el promedio de tiempo de entrega en dias agrupado por region y/o distrito""")
-
-    st.write("""En la esquina inferior derecha podemos observar la cantidad de ordenes por cada estado del pais""")
+    st.write("""El grafico de barras nos indican porcentualmente la cantidad de compras que se realizan por estado, el grafico
+    restante muestra el promedio de tiempos de entrega por region.""")
 with tab2:
     st.title("Satisfaccion del cliente en relacion a tiempos de entrega")
     st.subheader("KPI:")
