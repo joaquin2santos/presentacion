@@ -23,6 +23,6 @@ st.write("""En relacion a los productos que mas se han vendido, recomendamos com
     un mayor indice de ventas de dichos productos, e impulsar otros""")
 
 
-st.subheader("En el siguiente video podemos obtener mas informacion sobre el funcionamiento de Olist")
+st.subheader("En el siguiente videos podemos obtener mas informacion sobre el funcionamiento de Olist")
 
 st.video("https://youtu.be/jXJYaVRL5SU")

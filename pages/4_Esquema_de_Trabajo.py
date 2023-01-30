@@ -36,7 +36,10 @@ with tab3:
             puede reportar en que se encuentra trabajando y a su vez saber como esta el avance sus compañeros.""")
 with tab4:
     st.title("Consultas de Ejemplo")
-    st.markdown("En este video podemos ver ejemplos de consultas a la base de datos creada en Amazon Web Services")
+    st.subheader("En los siguientes videos podemos ver ejemplos de consultas a la base de datos creada en Amazon Web Services")
+    st.markdown("En este video podemos ver las consultas realizadas desde una conexion con MYSQL Workbench")
+    st.video("https://youtu.be/2dOqwHUKen4")
+    st.markdown("En este video podemos ver consultas realizadas desde python directamente al DataWarehouse creado en AWS")
     st.video("https://www.youtube.com/watch?v=377Ax9C-Lcs")
 
 with tab5: 
