@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Esquema de Trabajo")
+st.title("Equipo de Trabajo")
 
 st.markdown("Este proyecto lo realizamos de la siguiente manera:")
 
