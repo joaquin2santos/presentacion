@@ -10,14 +10,15 @@ with tab1:
     st.subheader(""" Reducir los tiempos de entrega 5% semestral.""")
     st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/imagen2.png?raw=true")
     st.write("""En el primer grafico de arriba a la izquierda(Velocimetro) podemos observar el promedio nacional
-           de demora todo proceso desde que el consumidor compra el producto, hasta que  se le es entregado. A su lado se
+           de demora en todo el proceso, desde que el consumidor compra el producto hasta que es entregado. A su lado se
            encuentra el promedio nacional de tiempos de entrega estimados, ambas medidas estan en dias""")
 
-    st.write("""El grafico titulado 'Diferencia Porcentual' en la parte superior muestra el porcentaje de diferencia entre el
-     que estimado y el tiempo real que tenemos para las entregas.""")
+    st.write("""El grafico titulado 'Diferencia Porcentual' en la parte superior muestra el porcentaje de diferencia
+     entre el tiempo estimado y el tiempo real que existe para las entregas.""")
     
-    st.write("""En el mapa podemos ver el promedio de entrega en dias por estado. Entendemos que brasil tiene una geografia 
+    st.write("""En el mapa podemos ver visualmente el promedio de entrega en dias por estado. Entendemos que brasil tiene una geografia 
             particular por lo que creemos necesario hacer esta distincion por zona.""")
+
     st.write("""En el tercer grafico  de la parte superior muestra el promedio nacional en el que el vendedor despacha 
         el producto vendido. Cabe destacar que esta parte del proceso no depende de Olist pero decidimos incluirla
         porque influye de sobremanera en el resultado del proceso final.""")
