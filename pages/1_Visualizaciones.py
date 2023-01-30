@@ -8,7 +8,7 @@ with tab1:
     st.subheader("KPI:")
     #st.markdown("***")
     st.subheader(""" Reducir los tiempos de entrega 5% semestral.""")
-    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/imagen2.png?raw=true")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/imagen2.png?raw=true")
     st.write("""En el primer grafico de arriba a la izquierda(Velocimetro) podemos observar el promedio nacional
            que demora todo proceso desde que el cliente compra el producto, hasta que le es entregado.""")
 
@@ -30,7 +30,7 @@ with tab2:
     st.title("Satisfaccion del cliente en relacion a tiempos de entrega")
     st.subheader("KPI:")
     st.subheader("""Aumentar en 2% semestral por 3 años las reviews positivas""")
-    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/imagen1.png?raw=true")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/imagen1.png?raw=true")
     st.write("""En el mapa ubicado en la parte superior izquierda podemos ver el promedio de scores de reseñas discriminado
         por region""")
     st.write("""En el grafico de velocimetro ubicado a su derecha podemos ver el promedio de score de reseñas nacional.""")
@@ -43,7 +43,7 @@ with tab3:
     st.title("Distribucion de Ventas por Categoria de Productos")
     st.subheader("KPI:")
     st.subheader("Aumentar la cantidad de productos vendidos en un 15% anual")
-    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Assets/imagen3.png?raw=true")
+    st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/imagen3.png?raw=true")
     st.write("""En el grafico de la parte superior izquierda tenemos el acumulado de ventas separado por categoria de productos""")
     st.write("""En la tajeta a su derecha tenemos el acumulado total de ventas para el periodo seleccionado""")
     st.write("""Por ultimo en la parte inferior econtramos la evolucion en el tiempo de la cantidad de ventas de la plataforma de Olist""")

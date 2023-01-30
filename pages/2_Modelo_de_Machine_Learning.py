@@ -1,6 +1,6 @@
 import streamlit as st 
 
-st.title("RECORDAR el modelo o las predicciones")
+st.title("Modelo de Machine Learning")
 
 st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Modelo%20ML.jpeg?raw=true")
 
