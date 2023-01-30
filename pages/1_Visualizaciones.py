@@ -10,20 +10,20 @@ with tab1:
     st.subheader(""" Reducir los tiempos de entrega 5% semestral.""")
     st.image("https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/imagen2.png?raw=true")
     st.write("""En el primer grafico de arriba a la izquierda(Velocimetro) podemos observar el promedio nacional
-           que demora todo proceso desde que el cliente compra el producto, hasta que le es entregado. A su lado se
+           de demora todo proceso desde que el consumidor compra el producto, hasta que  se le es entregado. A su lado se
            encuentra el promedio nacional de tiempos de entrega estimados, ambas medidas estan en dias""")
 
     st.write("""El grafico titulado 'Diferencia Porcentual' en la parte superior muestra el porcentaje de diferencia entre el
      que estimado y el tiempo real que tenemos para las entregas.""")
-
+    
+    st.write("""En el mapa podemos ver el promedio de entrega en dias por estado. Entendemos que brasil tiene una geografia 
+            particular por lo que creemos necesario hacer esta distincion por zona.""")
     st.write("""En el tercer grafico  de la parte superior muestra el promedio nacional en el que el vendedor despacha 
         el producto vendido. Cabe destacar que esta parte del proceso no depende de Olist pero decidimos incluirla
         porque influye de sobremanera en el resultado del proceso final.""")
     st.write("""En el cuarto grafico de la parte superior se encuentra el promedio nacional de entrega al cliente, 
     una vez que el producto esta en manos de Olist. Es decir, esta parte depende pura y exclusivamente de la empresa""")
 
-    st.write("""En el mapa podemos ver el promedio de entrega en dias por estado. Entendemos que brasil tiene una geografia 
-            particular por lo que creemos necesario hacer esta distincion por zona.""")
     st.write("""A la derecha del mapa, podemos observar el promedio de tiempo de entrega en dias agrupado por region y/o distrito""")
 
     st.write("""En la esquina inferior derecha podemos observar la cantidad de ordenes por cada estado del pais""")
