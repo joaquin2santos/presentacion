@@ -9,7 +9,7 @@ with col1:
     if st.checkbox("Contacta a Hector"):
             st.markdown("herrerae.hj87@gmail.com")
             st.subheader("Linkedin de Hector")
-            st.markdown("https://www.linkedin.com/in/herreraespinolahj")
+            st.markdown("https://www.linkedin.com/in/herrerraespinolahj/")
             
 
 with col2:
